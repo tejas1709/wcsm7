@@ -19,6 +19,8 @@ public class Case1 {
 		driver.findElement(By.xpath("//input[@id='btnLogin']")).click();
 		
 		
+	 //teju
+		
 		
 		
 	}
